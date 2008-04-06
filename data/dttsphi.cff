@@ -1,3 +1,5 @@
+block TSPhiParametersBlock = {
+
 PSet TSPhiParameters = {
 
 	# Debug flag
@@ -139,4 +141,6 @@ PSet TSPhiParameters = {
 	bool TSTREN22 = 1
 	bool TSTREN23 = 1
  
+}
+
 }
